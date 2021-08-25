@@ -4,3 +4,8 @@
 <br>
 
 [![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/microservices.png?raw=true "Microservices do 0 à GCP com Spring Boot, Kubernetes e Docker")](https://www.udemy.com/course/microservices-do-0-a-gcp-com-spring-boot-kubernetes-e-docker/?couponCode=GTHB_FLASH_SALE2021)
+
+<br>
+
+#### Transcrição:
+> Em andamento.
